@@ -1,0 +1,40 @@
+.body {
+    background-color: aqua;
+}
+.nav-bar {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.search-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.language {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-left {
+
+}
+
+.footer-right {
+
+}
